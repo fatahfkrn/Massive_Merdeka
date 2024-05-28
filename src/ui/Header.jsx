@@ -1,9 +1,9 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
-// import { BrowserRouter as Link } from "react-router-dom";
 import logo from '../assets/logo.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Navbar, Nav, NavDropdown, Dropdown } from 'react-bootstrap';
+import LanguageSwitcher from './LanguageSwitcher'; // Import the LanguageSwitcher component
 
 const languages = [
     { code: 'en', name: 'English' },
@@ -59,6 +59,8 @@ const Header = () => {
                                 </Dropdown.Menu>
                             </Dropdown>
                         </Navbar.Collapse>
+                        <LanguageSwitcher property1="default" className="language-switcher" />
+                        {/* Pass props to LanguageSwitcher */}
                         <Nav.Link href="#">Instagram</Nav.Link>
                         <Nav.Link href="#">Whatsapp</Nav.Link>
                     </Nav>
@@ -66,6 +68,6 @@ const Header = () => {
             </Container>
         </Navbar>
     );
-}
+};
 
 export default Header;

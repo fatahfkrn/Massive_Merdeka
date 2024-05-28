@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import AboutDispora from "./AboutDispora";
 import OpenTrip from "./OpenTrip";
 import Feedback from "./feedback";
+// import MapDirection from "./MapDirection";
 
 const Beranda = () => {
     return (
@@ -14,6 +15,8 @@ const Beranda = () => {
             <OpenTrip />
             <Feedback />
             <Footer />
+            {/* <MapDirection /> */}
+
         </div>
     );
 };

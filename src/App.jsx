@@ -1,6 +1,7 @@
-// App.js
-// import React from "react";
+/* eslint-disable no-unused-vars */
+import React from "react";
 import Beranda from "./ui/Beranda"; // Import the header component
+// import MapDirection1 from "./ui/MapDirection1";
 
 function App() {
   return (
