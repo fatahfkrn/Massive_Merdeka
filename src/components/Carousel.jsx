@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import ExampleCarouselImage from '../assets/ExampleCarouselImage';
+import ExampleCarouselImage from './ExampleCarouselImage';
 
 
 function ControlledCarousel() {

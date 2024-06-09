@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useReducer } from "react";
 import { Navbar, Dropdown } from "react-bootstrap";
-import "./LanguageSwitcher.css";
+import "../css/LanguageSwitcher.css";
 
 const languages = [
     { code: "default", name: "ID" },
@@ -17,7 +17,7 @@ const LanguageSwitcher = () => {
     };
 
     return (
-        <Navbar.Collapse>
+        <Navbar.Collapse className="pembungkus">
             <Dropdown onSelect={handleSelect}>
                 <Dropdown.Toggle variant="light" className={`language ${selectedLanguage}`}>
                     {languages.find((l) => l.code === selectedLanguage).name}

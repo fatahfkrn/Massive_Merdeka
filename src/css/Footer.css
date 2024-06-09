@@ -1,0 +1,110 @@
+.footer {
+    background-color: #fff1d6ad;
+    height: 311px;
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.footer .overlap {
+    height: 128px;
+    left: 376px;
+    position: absolute;
+    top: 5px;
+    width: 683px;
+}
+
+.footer .t-info {
+    -webkit-text-stroke: 3px #ffffff;
+    color: #ff6600;
+    font-family: 'Poppins-Black', Helvetica;
+    font-size: 60px;
+    font-weight: 900;
+    height: 100px;
+    text-transform: uppercase;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 100px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 0;
+    white-space: nowrap;
+}
+.footer .div {
+    color: #567bff;
+    font-family: 'Poppins-Black', Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 26px;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: 25px;
+    position: absolute;
+    top: 100px;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
+
+.footer .icon-sosmed {
+    height: 30px;
+    position: absolute;
+    top: 150px;
+    width: 32px;
+}
+
+.wa {
+    left: 620px;
+}
+
+.ig {
+    left: 660px;
+}
+
+.ttk {
+    left: 700px;
+}
+
+.fb {
+    left: 740px;
+}
+
+.web {
+    left: 780px;
+}
+
+.footer .group {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 230px;
+    width: 1440px;
+}
+
+.footer .grup-footer {
+    background-color: #ffffff;
+    height: 70px;
+    position: relative;
+    width: 100%;
+}
+
+.footer .p-footer {
+    color: #ff6600;
+    font-family: 'Poppins-Bold', Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    height: 30px;
+    left: 520px;
+    letter-spacing: 0;
+    line-height: 25px;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+}
+
+.footer .cr {
+    height: 30px;
+    left: 480px;
+    position: absolute;
+    top: 17px;
+    width: 30px;
+}

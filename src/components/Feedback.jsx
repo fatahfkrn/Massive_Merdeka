@@ -1,3 +1,8 @@
+/* eslint-disable no-unused-vars */
+import React from 'react'
+import review1 from '../assets/1.jpg'
+import review2 from '../assets/4.jpeg'
+
 export default function Feedback() {
     return (
         <div className="container mx-auto px-4 py-8">
@@ -5,7 +10,7 @@ export default function Feedback() {
             <p className="text-xl text-center mb-12">Alasan Kamu Harus Percaya Dengan Pelayanan Kita</p>
             <div className="flex justify-center gap-4">
                 <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="https://placehold.co/400x300" alt="Pantai Carita" />
+                    <img className="w-full" src={review1} alt="Pantai Carita" />
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">Galih Ario Prayudo</div>
                             <p className="text-zinc-700 text-base">
@@ -17,7 +22,7 @@ export default function Feedback() {
                         </div>
                 </div>
                 <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="https://placehold.co/400x300" alt="Cliff View" />
+                    <img className="w-full" src={review2} alt="Cliff View" />
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">Aria Wardana</div>
                             <p className="text-zinc-700 text-base">

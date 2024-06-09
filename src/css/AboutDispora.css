@@ -1,0 +1,29 @@
+.box .discoverbulukumba {
+    color: transparent;
+    font-family: 'Poppins-Bold', Helvetica;
+    font-size: 27px;
+    font-weight: 700;
+    /* height: 41px; */
+    /* left: 155px; */
+    letter-spacing: 0;
+    line-height: 40.5px;
+    /* position: absolute; */
+    margin-top: 50px;
+    /* white-space: nowrap; */
+}
+
+.box .text-wrapper {
+    color: #ff6600;
+}
+
+.box .span {
+    color: #567bff;
+}
+
+.box .bulukumba {
+    height: 170px;
+    left: 155px;
+    /* position: absolute; */
+    /* top: 9px; */
+    width: 170px;
+}

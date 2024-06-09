@@ -1,0 +1,563 @@
+.blog-artikel {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .blog-artikel .div-2 {
+    background-color: #ffffff;
+    height: 1488px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .blog-artikel .footer {
+    background-color: #fff1d6ad;
+    height: 311px;
+    left: 1px;
+    position: absolute;
+    top: 1177px;
+    width: 1440px;
+  }
+  
+  .blog-artikel .overlap {
+    height: 128px;
+    left: 376px;
+    position: absolute;
+    top: 5px;
+    width: 683px;
+  }
+  
+  .blog-artikel .text-wrapper-6 {
+    -webkit-text-stroke: 3px #ffffff;
+    color: #ff6600;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 71px;
+    font-weight: 900;
+    height: 107px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 106.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .p {
+    color: #567bff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 102px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .skill-icons {
+    height: 30px;
+    left: 705px;
+    position: absolute;
+    top: 154px;
+    width: 30px;
+  }
+  
+  .blog-artikel .logos-whatsapp-icon {
+    height: 32px;
+    left: 623px;
+    position: absolute;
+    top: 152px;
+    width: 32px;
+  }
+  
+  .blog-artikel .logos-facebook {
+    height: 30px;
+    left: 745px;
+    position: absolute;
+    top: 154px;
+    width: 30px;
+  }
+  
+  .blog-artikel .streamline-web {
+    height: 34px;
+    left: 783px;
+    position: absolute;
+    top: 152px;
+    width: 34px;
+  }
+  
+  .blog-artikel .group {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 237px;
+    width: 1442px;
+  }
+  
+  .blog-artikel .overlap-group-3 {
+    background-color: #ffffff;
+    height: 74px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .blog-artikel .text-wrapper-7 {
+    color: #ff6600;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 526px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .mdi-copyright {
+    height: 24px;
+    left: 487px;
+    position: absolute;
+    top: 23px;
+    width: 24px;
+  }
+  
+  .blog-artikel .mage-tiktok-circle {
+    height: 34px;
+    left: 663px;
+    position: absolute;
+    top: 151px;
+    width: 34px;
+  }
+  
+  .blog-artikel .overlap-2 {
+    height: 526px;
+    left: 0;
+    position: absolute;
+    top: 130px;
+    width: 1440px;
+  }
+  
+  .blog-artikel .image {
+    height: 525px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .blog-artikel .rectangle-4 {
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    height: 95px;
+    left: 638px;
+    position: absolute;
+    top: 430px;
+    width: 165px;
+  }
+  
+  .blog-artikel .BLOG-TERBARU {
+    color: #ffffff;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 53px;
+    font-weight: 400;
+    height: 80px;
+    left: 336px;
+    letter-spacing: 0;
+    line-height: 79.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 157px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .span {
+    font-weight: 900;
+  }
+  
+  .blog-artikel .text-wrapper-8 {
+    font-family: "Potta One-Regular", Helvetica;
+  }
+  
+  .blog-artikel .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 502px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 237px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .overlap-wrapper {
+    height: 95px;
+    left: 428px;
+    position: absolute;
+    top: 431px;
+    width: 167px;
+  }
+  
+  .blog-artikel .div-wrapper {
+    background-color: #ff6600;
+    border-radius: 10px 10px 0px 0px;
+    height: 95px;
+    position: relative;
+    width: 165px;
+  }
+  
+  .blog-artikel .text-wrapper-10 {
+    -webkit-text-stroke: 1px #ff6600;
+    color: #ffffff;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 31px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .text-wrapper-11 {
+    -webkit-text-stroke: 1px #ffffff;
+    color: #ff6600;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 680px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 460px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .overlap-group-wrapper {
+    height: 95px;
+    left: 848px;
+    position: absolute;
+    top: 430px;
+    width: 167px;
+  }
+  
+  .blog-artikel .text-wrapper-12 {
+    -webkit-text-stroke: 1px #ff6600;
+    color: #ffffff;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 31px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .pagination-instance {
+    left: 584px !important;
+    position: absolute !important;
+    top: 1088px !important;
+  }
+  
+  .blog-artikel .group-2 {
+    height: 329px;
+    left: 289px;
+    position: absolute;
+    top: 702px;
+    width: 271px;
+  }
+  
+  .blog-artikel .overlap-3 {
+    background-image: url(./rectangle-58.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 329px;
+    position: relative;
+    width: 267px;
+  }
+  
+  .blog-artikel .rectangle-5 {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.48) 0%,
+      rgba(31.03, 31.03, 31.03, 0.48) 55.72%,
+      rgba(0, 0, 0, 0.48) 69.17%,
+      rgba(0, 0, 0, 0.48) 85.7%,
+      rgba(0, 0, 0, 0.48) 100%
+    );
+    border-radius: 23px;
+    height: 329px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 267px;
+  }
+  
+  .blog-artikel .menulusuri {
+    color: #ffffff;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-size: 13px;
+    font-weight: 800;
+    height: 40px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 145px;
+  }
+  
+  .blog-artikel .rectangle-6 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 35px;
+    left: 73px;
+    position: absolute;
+    top: 254px;
+    width: 121px;
+  }
+  
+  .blog-artikel .text-wrapper-13 {
+    color: #ff6600;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-size: 13px;
+    font-weight: 800;
+    height: 17px;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 263px;
+    white-space: nowrap;
+    width: 99px;
+  }
+  
+  .blog-artikel .group-3 {
+    height: 329px;
+    left: 587px;
+    position: absolute;
+    top: 702px;
+    width: 271px;
+  }
+  
+  .blog-artikel .overlap-4 {
+    background-image: url(./image.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 329px;
+    position: relative;
+    width: 267px;
+  }
+  
+  .blog-artikel .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-size: 13px;
+    font-weight: 800;
+    height: 20px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 145px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .group-4 {
+    height: 329px;
+    left: 885px;
+    position: absolute;
+    top: 702px;
+    width: 271px;
+  }
+  
+  .blog-artikel .overlap-5 {
+    background-image: url(./rectangle-58-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 329px;
+    position: relative;
+    width: 267px;
+  }
+  
+  .blog-artikel .element-alasan-kamu {
+    color: #ffffff;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-size: 13px;
+    font-weight: 800;
+    height: 40px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 145px;
+    width: 253px;
+  }
+  
+  .blog-artikel .header {
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 130px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .blog-artikel .group-5 {
+    height: 103px;
+    left: 41px;
+    position: absolute;
+    top: 5px;
+    width: 185px;
+  }
+  
+  .blog-artikel .overlap-group-4 {
+    height: 103px;
+    position: relative;
+    width: 183px;
+  }
+  
+  .blog-artikel .bulukumba {
+    height: 84px;
+    left: 26px;
+    position: absolute;
+    top: 0;
+    width: 123px;
+  }
+  
+  .blog-artikel .discoverbulukumba {
+    color: transparent;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    height: 21px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 82px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .text-wrapper-15 {
+    color: #ff6600;
+  }
+  
+  .blog-artikel .text-wrapper-16 {
+    color: #567bff;
+  }
+  
+  .blog-artikel .text-wrapper-17 {
+    color: #567bff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 411px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .text-wrapper-18 {
+    color: #567bff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 812px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .text-wrapper-19 {
+    color: #567bff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 964px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+  }
+  
+  .blog-artikel .search-bar {
+    height: 49px !important;
+    left: 1193px !important;
+    position: absolute !important;
+    top: 45px !important;
+    width: 47px !important;
+  }
+  
+  .blog-artikel .logos-whatsapp-icon-2 {
+    height: 42px;
+    left: 1371px;
+    position: absolute;
+    top: 44px;
+    width: 42px;
+  }
+  
+  .blog-artikel .layanan-instance {
+    left: 599px !important;
+    position: absolute !important;
+    top: 49px !important;
+  }
+  
+  .blog-artikel .language-instance {
+    left: 1258px !important;
+    position: absolute !important;
+    top: 44px !important;
+  }
+  
+  .blog-artikel .skill-icons-2 {
+    height: 36px;
+    left: 1319px;
+    position: absolute;
+    top: 47px;
+    width: 36px;
+  }
+  
+  .blog-artikel .logos-whatsapp-icon-3 {
+    height: 50px;
+    left: 1364px;
+    position: fixed;
+    top: 702px;
+    width: 50px;
+  }

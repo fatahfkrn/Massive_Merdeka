@@ -1,0 +1,12 @@
+.pagination {
+    align-items: center;
+    display: inline-flex;
+    gap: 10px;
+    position: relative;
+    height: 2700px;
+    left: 450px;
+}
+
+.pagination .page-instance {
+    font-family: "SF Pro Text-Bold", Helvetica !important;
+}

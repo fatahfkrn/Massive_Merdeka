@@ -1,8 +1,8 @@
 /* eslint-disable react/prop-types */
 import Carousel from 'react-bootstrap/Carousel';
-import imgCarousel1 from './7.jpeg';
-import imgCarousel2 from './10.jpeg';
-import imgCarousel3 from './13.jpeg'
+import imgCarousel1 from '../assets/7.jpeg';
+import imgCarousel2 from '../assets/10.jpeg';
+import imgCarousel3 from '../assets/13.jpeg'
 
 
 const ExampleCarouselImage = ({ text }) => {

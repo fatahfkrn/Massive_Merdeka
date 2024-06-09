@@ -1,0 +1,525 @@
+.blog-page-berita {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.blog-page-berita .div-2 {
+    background-color: aliceblue;
+    height: 2528px;
+    position: relative;
+    width: 1440px;
+}
+
+.blog-page-berita .footer {
+    background-color: aliceblue;
+    height: 311px;
+    left: 0;
+    position: absolute;
+    top: 2217px;
+    width: 1440px;
+}
+
+.blog-page-berita .overlap {
+    height: 128px;
+    left: 376px;
+    position: absolute;
+    top: 5px;
+    width: 683px;
+}
+.blog-page-berita .text-wrapper-6 {
+    -webkit-text-stroke: 3px white;
+    color: aqua;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 71px;
+    font-weight: 900;
+    height: 107px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 106.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px white;
+    top: 0;
+    white-space: nowrap;
+}
+.blog-page-berita .p {
+    color: #567bff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 102px;
+    white-space: nowrap;
+}
+.blog-page-berita .skill-icons {
+    height: 30px;
+    left: 705px;
+    position: absolute;
+    top: 154px;
+    width: 30px;
+}
+.blog-page-berita .logos-whatsapp-icon {
+    height: 32px;
+    left: 623px;
+    position: absolute;
+    top: 152px;
+    width: 32px;
+}
+.blog-page-berita .logos-facebook {
+    height: 30px;
+    left: 745px;
+    position: absolute;
+    top: 154px;
+    width: 30px;
+}
+.blog-page-berita .streamline-web {
+    height: 34px;
+    left: 783px;
+    position: absolute;
+    top: 152px;
+    width: 34px;
+}
+.blog-page-berita .group {
+    height: 74px;
+    left: 0px;
+    position: absolute;
+    top: 237px;
+    width: 1442px;
+}
+
+.blog-page-berita .overlap-group-3 {
+    background-color: blueviolet;
+    height: 74px;
+    position: relative;
+    width: 1440px;
+}
+.blog-page-berita .text-wrapper-7 {
+    color: #ff6600;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 526px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+}
+.blog-page-berita .mdi-copyright {
+    height: 24px;
+    left: 487px;
+    position: absolute;
+    top: 23px;
+    width: 24px;
+}
+.blog-page-berita .mage-tiktok-circle {
+    height: 34px;
+    left: 663px;
+    position: absolute;
+    top: 151px;
+    width: 34px;
+}
+.blog-page-berita .rectangle-4 {
+    height: 481px;
+    left: 394px;
+    object-fit: cover;
+    position: absolute;
+    top: 684px;
+    width: 652px;
+}
+.blog-page-berita .overlap-group-2 {
+    height: 526px;
+    left: 0;
+    position: absolute;
+    top: 130px;
+    width: 1440px;
+}
+.blog-page-berita .image {
+    height: 525px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 1440px;
+}
+.blog-page-berita .rectangle-5 {
+    background-color: #ff6600;
+    border-radius: 10px 10px 0px 0px;
+    height: 95px;
+    left: 428px;
+    position: absolute;
+    top: 431px;
+    width: 165px;
+}
+.blog-page-berita .BLOG-TERBARU {
+    color: #ff6600;
+    font-family: "Poppins-Black", Helvetica ;
+    font-size: 53px;
+    font-weight: 400;
+    height: 80px;
+    left: 336px;
+    letter-spacing: 0;
+    line-height: 79.5px;
+    position: absolute;
+    text-shadow: 0px 4px 4px white;
+    top: 157px;
+    white-space: nowrap;
+}
+.blog-page-berita .span {
+    font-weight: 900;
+}
+.blog-page-berita .text-wrapper-8 {
+    font-family: "Potta One-Reguler",Helvetica ;
+}
+.blog-page-berita .text-wrapper-9 {
+    color: #ffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    height: 26px;
+    left: 502px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+    position: absolute;
+    top: 237px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-10 {
+    -webkit-text-stroke: 1px #ffff;
+    color: #ffff;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 475px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    top: 461px;
+    white-space: nowrap;
+}
+.blog-page-berita .overlap-wrapper {
+    height: 95px;
+    left: 638px;
+    position: absolute;
+    top: 430px;
+    width: 167px;
+}
+.blog-page-berita .div-wrapper {
+    background-color: #ff6600;
+    border-radius: 10px 10px 0px 0px;
+    height: 95px;
+    position: relative;
+    width: 165px;
+}
+
+.blog-page-berita .text-wrapper-11 {
+    -webkit-text-stroke: 1px #ff6600;
+    color: #ff6600;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #ff6600;
+    top: 31px;
+    white-space: nowrap;
+}
+.blog-page-berita .overlap-group-wrapper {
+    height: 95px;
+    left: 848px;
+    position: absolute;
+    top: 430px;
+    width: 167px;
+}
+.blog-page-berita .text-wrapper-12 {
+    -webkit-text-stroke: 1px #ff6600;
+    color: black;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 21px;
+    font-weight: 900;
+    height: 32px;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #ff6600;
+    top: 31px;
+    white-space: nowrap;
+}
+.blog-page-berita .bulukumba-dinobatkan {
+    color: #000;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    height: 96px;
+    left: 199px;
+    letter-spacing: 0;
+    line-height: 48px;
+    position: absolute;
+    top: 1219px;
+    width: 1044px;
+}
+.blog-page-berita .text-wrapper-13 {
+    color: black;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    height: 23px;
+    left: 588px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    top: 1167px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-14 {
+    color: black;
+    font-family: "Poppins-Lightitalic", Helvetica;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    height: 23px;
+    left: 627px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    top: 1975px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-15 {
+    color: black;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 23px;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    top: 1323px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-16 {
+    color: black;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 23px;
+    left: 422px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    top: 1323px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-17 {
+    color: black;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 23px;
+    left: 549px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    top: 1323px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-18 {
+    color: black;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 92px;
+    left: 199px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    text-align: justify;
+    top: 1368px;
+    width: 1023px;
+}
+.blog-page-berita .text-wrapper-19 {
+    color: black;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 115px;
+    left: 199px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    text-align: justify;
+    top: 2032px;
+    width: 1023px;
+}
+.blog-page-berita .ph-calender-bold {
+    height: 20px;
+    left: 199px;
+    position: absolute;
+    top: 1326px;
+    width: 20px;
+}
+.blog-page-berita .mingcute-time-fill {
+    height: 24px;
+    left: 395px;
+    position: absolute;
+    top: 1324px;
+    width: 24px;
+}
+.blog-page-berita .material-symbol-tag {
+    height: 24px;
+    left: 524px;
+    position: absolute;
+    top: 1324px;
+    width: 24px;
+}
+.blog-page-berita .rectangle-6 {
+    height: 482px;
+    left: 291px;
+    object-fit: cover;
+    position: absolute;
+    top: 1490px;
+    width: 828px;
+}
+.blog-page-berita .header {
+    background-color: #ff6600;
+    box-shadow: 0px 4px 4px #ff6600;
+    height: 130px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+}
+.blog-page-berita .group-2 {
+    height: 103px;
+    left: 41px;
+    position: absolute;
+    top: 5px;
+    width: 185px;
+}
+.blog-page-berita .overlap-group-4 {
+    height: 103px;
+    position: relative;
+    width: 183px;
+}
+
+.blog-page-berita .bulukumba {
+    height: 84px;
+    left: 26px;
+    position: absolute;
+    top: 0;
+    width: 123px;
+}
+.blog-page-berita .discoverbulukumba {
+    color: transparent;
+    font-family: "Poppins-semiBold", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    height: 21px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 82px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-20 {
+    color: #ff6600;
+}
+.blog-page-berita .text-wrapper-21 {
+    color: #567bff;
+}
+.blog-page-berita .text-wrapper-22 {
+    color: #567bff;
+    font-family:"Poppins-semiBold", Helvetica ;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 411px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-23 {
+    color: #567bff;
+    font-family:"Poppins-semiBold", Helvetica ;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 812px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+}
+.blog-page-berita .text-wrapper-24 {
+    color: #567bff;
+    font-family:"Poppins-semiBold", Helvetica ;
+    font-size: 23px;
+    font-weight: 600;
+    height: 35px;
+    left: 964px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+}
+.blog-page-berita .search-bar {
+    height: 49px !important;
+    left: 1193px !important;
+    position: absolute !important;
+    top: 45px !important;
+    width: 47px !important;
+}
+
+.blog-page-berita .logos-whatsapp-icon-2 {
+    height: 42px;
+    left: 1371px;
+    position: absolute;
+    top: 44px;
+    width: 42px;
+}
+.blog-page-berita .layanan-instance {
+    left: 599 !important;
+    position: absolute !important;
+    top: 49px !important;
+}
+.blog-page-berita .language-instance {
+    left: 1258px !important;
+    position: absolute !important;
+    top: 44px !important;
+}
+.blog-page-berita .skill-icons-2 {
+    height: 36px;
+    left: 1319px;
+    position: absolute;
+    top: 47px;
+    width: 36px;
+}
+.blog-page-berita .logos-whatsapp-icon-3 {
+    height: 50px;
+    left: 1364px;
+    position: fixed;
+    top: 702px;
+    width: 50px;
+}

@@ -2,9 +2,8 @@ node_modules/
 cobaHeader.jsx
 Layanan.jsx
 Layanan.css
-SearchBar.jsx
-MapDirection.css
-MapDirection1.jsx
+HotelResto.jsx
+Profile.jsx
 # Logs
 logs
 *.log

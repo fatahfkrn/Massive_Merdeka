@@ -1,0 +1,83 @@
+.img-card {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.bungkus1 {
+    /* border-color: #ff6600; */
+    border-radius: 20px;
+    display: flex;
+    
+
+}
+
+.title {
+    color: #577CFF;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.price {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.detail-price {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.grup1 {
+    color: #577CFF;
+    font-weight: bold;
+    align-self: start;
+    
+}
+
+.grup2 {
+    color: #ff6600;
+    /* padding-left: 200px;
+    margin-left: 140px; */
+}
+
+.box-duration {
+    width: 68px;
+    height: 25px;
+}
+
+.box-group {
+    height: 25px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 70px;
+    z-index: 100;
+}
+
+.rectangle {
+    background-color: #ff6600;
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 5px;
+    /* height: 29px;
+    width: 72px; */
+    /* left: -2px; */
+    position: relative;
+    /* top: -2px; */
+}
+
+.duration {
+    color: #ffffff;
+    font-family: 'Potta One-Regular', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    height: 23px;
+    /* left: 10px; */
+    letter-spacing: 0;
+    line-height: 22px;
+    /* position: absolute; */
+    /* top: 0; */
+    white-space: nowrap;
+}

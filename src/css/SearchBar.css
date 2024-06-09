@@ -1,0 +1,49 @@
+.search-bar {
+    height: 41px;
+    width: 39px;
+}
+
+.search-bar .vector {
+    height: 26px;
+    left: 7px;
+    position: absolute;
+    top: 7px;
+    width: 26px;
+}
+
+.search-bar .overlap-group {
+    background-color: #ff6600e0;
+    border-radius: 10px;
+    height: 41px;
+    left: -118px;
+    position: relative;
+    width: 157px;
+}
+
+.search-bar .img {
+    height: 26px;
+    left: 125px;
+    position: absolute;
+    top: 7px;
+    width: 26px;
+}
+
+.search-bar .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    height: 20px;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+}
+
+.search-bar .default {
+    background-color: #ff6600e0;
+    border-radius: 10px;
+    position: relative;
+}
